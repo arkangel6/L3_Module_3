@@ -18,4 +18,6 @@ public abstract class City {
 	}
 	
 	abstract double getAnnualTaxes();
+	
+	
 }
